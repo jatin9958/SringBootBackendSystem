@@ -22,5 +22,4 @@ public class Employees_table {
     private String department;
     private String email;
     private BigDecimal salary;
-
 }
